@@ -1,0 +1,8 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: green;
+    font-size: 23px;
+    font-weight: 800;
+}
